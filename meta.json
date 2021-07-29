@@ -1,5 +1,13 @@
 {
     "cabinet": "Q107618603",
     "lang":    "sv",
-    "agent":   "every-politican-scrapers/aland-cabinet"
+    "agent":   "every-politican-scrapers/aland-cabinet",
+    "source":  {
+        "url":   "https://www.regeringen.ax/regeringen",
+        "title": "Regeringen",
+        "lang":  {
+            "code": "sv",
+            "wikidata": "Q9027"
+        }
+    }
 }
