@@ -1,13 +1,15 @@
 {
-    "cabinet": "Q107618603",
-    "lang":    "sv",
-    "agent":   "every-politican-scrapers/aland-cabinet",
-    "source":  {
+    "cabinet": {
+      "id": "Q107618603",
+      "start": "2019-12-10"
+    },
+    "source": {
         "url":   "https://www.regeringen.ax/regeringen",
         "title": "Regeringen",
         "lang":  {
             "code": "sv",
             "wikidata": "Q9027"
         }
-    }
+    },
+    "agent": "every-politican-scrapers/aland-cabinet"
 }
