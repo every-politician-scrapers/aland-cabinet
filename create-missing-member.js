@@ -1,3 +1,7 @@
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
 module.exports = (label) => {
   return {
     type: 'item',
@@ -5,7 +9,7 @@ module.exports = (label) => {
       en: label,
     },
     descriptions: {
-      en: 'politician in Åland',
+      en: `politician in ${meta.jurisdiction.name}`,
     },
     claims: {
       P31: { value: 'Q5' }, // human
