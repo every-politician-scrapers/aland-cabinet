@@ -2,12 +2,10 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/scraper_data'
-require 'open-uri/cached'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     field :name do
       name_and_position_words.last(2).join(' ')
     end
@@ -31,14 +29,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
-    end
-
-    private
-
+  class Members
     def member_container
       noko.css('#block-menu-block-5 li.expanded')
     end
