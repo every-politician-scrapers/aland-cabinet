@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Veronica Thörnroos (born 16 July 1962) is a Finnish politician from the Åland Islands.",
+              "text": "Veronica Thörnroos (born 16 July 1962) is a Finnish politician from Åland.",
               "links": [
                 {
                   "text": "Finnish",
@@ -25,9 +25,9 @@
                   "page": "Finland"
                 },
                 {
-                  "text": "Åland Islands",
+                  "text": "Åland",
                   "type": "internal",
-                  "page": "Åland Islands"
+                  "page": "Åland"
                 }
               ],
               "formatting": {
