@@ -151,27 +151,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "CV Veronica Thörnroos {{!}} Ålands landskapsregering",
-          "url": "https://www.regeringen.ax/regeringen/lantrad-veronica-thornroos/cv-veronica-thornroos",
-          "work": "www.regeringen.ax",
-          "access-date": "2019-12-27",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.regeringen.ax/sites/www.regeringen.ax/files/attachments/page/cv-veronica-thornroos.pdf",
-          "title": "Curriculum vitae: Veronica Thörnroos",
-          "date": "2019",
-          "publisher": "regeringen.ax",
-          "format": "PDF",
-          "accessdate": "3 December 2020",
-          "language": "Swedish",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
