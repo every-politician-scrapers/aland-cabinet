@@ -37,6 +37,12 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "description": "Finnish politician",
+          "template": "short description"
+        }
       ]
     }
   ]
