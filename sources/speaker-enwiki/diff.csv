@@ -1,23 +1,20 @@
 @@,itemlabel,item,startdate,enddate
-+++,Julius Sundblom,Q3781648,1922-06-09,1945-08-23
 +++,Johannes Holmberg,,1945,1945
-+++,Hugo Johansson,Q4566048,1946,1954
-+++,Thorvald Eriksson,Q1960347,1955,1971
+->,Hugo Johansson,Q4566048,1946-01-01->1946,1954-01-01->1954
+->,Thorvald Eiriksson->Thorvald Eriksson,Q1960347,1955-01-01->1955,1971-01-01->1971
 +++,Folke Woivalin,,1972,1978
 +++,Nils Dahlman,,1978,1979
 +++,Olof Jansson,,1979,1983
-+++,Sune Carlsson,Q7639906,1983,1987
+->,Sune Carlsson,Q7639906,1983-01-01->1983,1987-01-01->1987
 +++,Olof Jansson,,1987,1994
-+++,Roger Jansson,Q2356536,1994,1995
+->,Roger Jansson,Q2356536,1994-01-01->1994,1995-01-01->1995
 +++,Ragnar Erlandsson,,1995,1999
-+++,Sune Eriksson,Q4532458,1999,2000
+->,Sune Eriksson,Q4532458,1999-01-01->1999,2000-01-01->2000
 +++,Ragnar Erlandsson,,2000,2001
-+++,Viveca Eriksson,Q451038,2002,2004
+->,Viveka Eriksson->Viveca Eriksson,Q451038,2002-01-01->2002,2004-01-01->2004
 +++,Barbro Sundback,,2005,2007
----,Roger Nordlund,Q713308,2007-01-01,2011-01-01
-+++,Gunnar Jansson,,2007-11-01,2007-11-28
-+++,Roger Nordlund,Q713308,2007-12-03,2011-11-28
-->,Britt Lundberg,Q2160390,2011-01-01->2011-11-28,2015-01-01->2015
-+++,Johan Ehn,Q2378990,2015,2017
-+++,Gun-Mari Lindholm,Q2269671,2017,2019
+->,Gunnar Jansson,Q2270153->NULL,2007-11-01,2007-11-28
+->,Britt Lundberg,Q2160390,2011-11-28,2015-01-01->2015
+->,Johan Ehn,Q2378990,2015-01-01->2015,2017-01-01->2017
+->,Gun-Mari Lindholm,Q2269671,2017-01-01->2017,2019-01-01->2019
 ->,Bert Häggblom,Q101094690->NULL,2020-11-02,
