@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "Åland",
+      "id": "Q5689"
+    },
+    "country": {
+      "name": "Finland",
+      "id": "Q33"
+    },
+    "cabinet": {
+      "id": "Q107618603",
+      "start": "2019-12-10",
+      "parent": "Q2625260"
+    },
+    "source": {
+        "url":   "https://www.regeringen.ax/regeringen",
+        "title": "Regeringen",
+        "lang":  {
+            "code": "sv",
+            "wikidata": "Q9027"
+        }
+    },
+    "agent": "every-politican-scrapers/aland-cabinet"
+}
