@@ -1,14 +1,1 @@
-@@,itemlabel,item,startdate,enddate
----,Britt Lundberg,Q2160390,,
-+++,Johannes Holmberg,,1945,1945
-->,Thorvald Eiriksson->Thorvald Eriksson,Q1960347,1955,1971
-+++,Folke Woivalin,,1972,1978
-+++,Nils Dahlman,,1978,1979
-+++,Olof Jansson,,1979,1983
-+++,Olof Jansson,,1987,1994
-+++,Ragnar Erlandsson,,1995,1999
-->,Ragnar Erlandsson,Q4353587->NULL,2000,2001
-->,Viveka Eriksson->Viveca Eriksson,Q451038,2002,2004
-->,Barbro Sundback,Q2270143->NULL,2005,2007
-->,Gunnar Jansson,Q2270153->NULL,2007-11-01,2007-11-28
-->,Bert Häggblom,Q101094690->NULL,2020-11-02,
+@@,item,itemlabel,startdate,enddate
